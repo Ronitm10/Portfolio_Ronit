@@ -64,3 +64,5 @@ This tag is used to define title on the browser tabs.
 
 18. <html></html>
 html tag is used to wrap the whole tags collection inside of it.
+
+..
